@@ -1,3 +1,5 @@
+<img src="docs/logo.png" alt="ActiveRewards" width="160" align="right">
+
 # ActiveRewards
 
 **Daily login, streaks and AFK-proof playtime rewards** in one plugin, for Paper and Folia. Players get a reward each

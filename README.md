@@ -11,8 +11,8 @@ anti-AFK plugin), and the paid ones are often no longer updated. ActiveRewards d
 (a 7-day cycle and playtime tiers are included), and never gives a reward twice: not by spamming the menu, not on two
 servers at once, not after a crash.
 
-> **Status:** version 1.0.0 released: free edition on [SpigotMC](https://www.spigotmc.org/resources/activerewards-free.140095/) and in
-> [Releases](../../releases/latest) (CurseForge soon), full edition on [Payhip](https://payhip.com/b/740wx).
+> **Status:** version 1.0.0 released: free edition on [SpigotMC](https://www.spigotmc.org/resources/activerewards-free.140095/), in
+> [Releases](../../releases/latest) and on [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/activerewards-free), full edition on [Payhip](https://payhip.com/b/740wx).
 
 ## Editions
 
